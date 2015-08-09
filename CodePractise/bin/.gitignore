@@ -1,5 +1,9 @@
-/h2o/
-/oh/
-/producerconsumer/
 /thread/
-/concurrency/
+/calculator/
+/tree/
+/Graph.class
+/Neighbor.class
+/Vertex.class
+/graphs/
+/Heap.class
+/HeapApp.class
